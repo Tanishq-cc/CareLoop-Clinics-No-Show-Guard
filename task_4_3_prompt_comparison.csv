@@ -1,0 +1,33 @@
+note_id,note_text,prompt_version,prompt,result_status,root_cause,confidence,summary,recommended_action
+N007,"Bhool gaya, SMS nahi aaya tha. Dobara booking karni hai.",V1,"Classify the patient note into:
+    Forgot, Distance, Cost, Illness, Work, Other.
+    Give a short explanation and confidence score.",Pending Gemini API response,,,,
+N007,"Bhool gaya, SMS nahi aaya tha. Dobara booking karni hai.",V2,"You are a clinic no-show analysis assistant.
+
+    Classify the patient note into exactly one category:
+    Forgot, Distance, Cost, Illness, Work, Other.
+
+    Instructions:
+    - Understand English and Hinglish.
+    - Interpret the complete context.
+    - Do not guess when the evidence is unclear.
+    - Use Other when the reason cannot be established.
+    - Return a short evidence-based summary.
+    - Return confidence between 0 and 1.
+    - Suggest one practical recommended action.",Pending Gemini API response,,,,
+N009,"Phone was switched off, could not reach the patient after three attempts.",V1,"Classify the patient note into:
+    Forgot, Distance, Cost, Illness, Work, Other.
+    Give a short explanation and confidence score.",Pending Gemini API response,,,,
+N009,"Phone was switched off, could not reach the patient after three attempts.",V2,"You are a clinic no-show analysis assistant.
+
+    Classify the patient note into exactly one category:
+    Forgot, Distance, Cost, Illness, Work, Other.
+
+    Instructions:
+    - Understand English and Hinglish.
+    - Interpret the complete context.
+    - Do not guess when the evidence is unclear.
+    - Use Other when the reason cannot be established.
+    - Return a short evidence-based summary.
+    - Return confidence between 0 and 1.
+    - Suggest one practical recommended action.",Pending Gemini API response,,,,

@@ -1,0 +1,31 @@
+note_id,appointment_id,note_text,reason_category,reason_summary,confidence,analysis_status
+N001,A0872,Patient said she never got any reminder message and completely forgot about the visit. Wants to rebook for next week.,Forgot,Patient forgot about the appointment after not receiving a reminder message.,0.98,Success
+N002,A0897,Lives far from the clinic and could not find any transport that morning. Says the clinic is too far for a routine check-up.,Distance,The patient was unable to attend because they live too far from the clinic and could not secure transportation.,0.98,Success
+N003,A0526,Patient felt the consultation fee was too high this month and decided to skip. Asked if there is any discount for follow-ups.,Cost,Patient skipped the appointment due to high consultation fees and inquired about follow-up discounts.,0.98,Success
+N004,A0926,,Other,Empty patient note,0.0,Empty
+N005,A0534,"Had high fever and body ache on the day, stayed in bed. Will visit once recovered.",Illness,The patient missed the appointment due to experiencing a high fever and body ache.,0.98,Success
+N006,A0507,"Manager called an urgent meeting at the office, could not leave work. Asked for an evening slot next time.",Work,Patient missed the appointment due to an urgent meeting at work that they could not leave.,0.98,Success
+N007,A0333,"Bhool gaya, SMS nahi aaya tha. Dobara booking karni hai.",Forgot,"The patient forgot the appointment, noting that they did not receive an SMS reminder.",0.95,Success
+N008,A0222,"City bus strike that day, no auto available near the colony. Distance is a big problem for him.",Distance,"The patient was unable to attend due to a city bus strike, unavailable auto rickshaws, and issues with traveling the distance.",0.95,Success
+N009,A0977,"Phone was switched off, could not reach the patient after three attempts.",Other,"The patient could not be reached because their phone was turned off, so no specific reason for missing the appointment was provided.",0.95,Success
+N010,A0596,Had a shift change at the factory and could not take leave. Prefers Saturday appointments.,Other,Analysis failed,0.0,Failed
+N011,A0764,Was unwell with stomach infection on that day.,Illness,The patient missed the appointment because they were unwell with a stomach infection.,0.98,Success
+N012,A0121,"No transport available from his village, had to skip.",Distance,Patient was unable to attend the appointment due to a lack of available transportation from their village.,0.95,Success
+N013,A0135,Could not afford the fee this month.,Cost,Patient was unable to afford the appointment fee.,0.98,Success
+N014,A0850,Boss refused leave so the visit was missed.,Work,The patient missed the appointment because their boss denied their leave request.,0.98,Success
+N015,A0568,"Forgot the appointment completely, no reminder was sent.",Forgot,"The patient completely forgot the appointment, noting that no reminder was sent.",1.0,Success
+N016,A0818,Was unwell with stomach infection on that day.,Illness,The patient was unable to attend the appointment due to being unwell with a stomach infection.,0.99,Success
+N017,A0815,"Office deadline, could not take time off.",Work,Patient had an office deadline and could not take time off work.,0.98,Success
+N018,A0016,Boss refused leave so the visit was missed.,Work,The patient missed the appointment because their boss refused to grant them leave from work.,0.98,Success
+N019,A0074,"Did not receive any SMS or call reminder, lost track of the date.",Forgot,The patient lost track of the appointment date because they did not receive a reminder via SMS or phone call.,0.98,Success
+N020,A0335,"Travel takes over two hours each way, so he did not come.",Distance,The patient could not attend the appointment because the travel time is over two hours each way.,0.98,Success
+N021,A0824,"Forgot the appointment completely, no reminder was sent.",Other,Analysis failed,0.0,Failed
+N022,A0423,"Money problem this week, will come when salary arrives.",Other,Analysis failed,0.0,Failed
+N023,A0593,Clinic is too far from home and the bus was very late.,Other,Analysis failed,0.0,Failed
+N024,A0374,"Wrong number on record, call could not be completed.",Other,Analysis failed,0.0,Failed
+N025,A0728,"Did not receive any SMS or call reminder, lost track of the date.",Forgot,The patient forgot the appointment because they lost track of the date and did not receive an SMS or phone call reminder.,0.98,Success
+N026,A0863,Had a family emergency and had to travel out of town.,Other,The patient missed the appointment due to an unexpected family emergency requiring out-of-town travel.,0.95,Success
+N027,A0721,"Child fell ill suddenly, went to the hospital instead.",Illness,The patient missed the appointment because their child suddenly became ill and required immediate hospital care.,0.98,Success
+N028,A0324,"Wrong number on record, call could not be completed.",Other,Unable to contact the patient due to an incorrect phone number on record.,0.95,Success
+N029,A0585,"No transport available from his village, had to skip.",Distance,The patient was unable to attend the appointment due to a lack of transport available from their village.,0.95,Success
+N030,A0086,Says the booking slipped her mind because nobody reminded her.,Other,Analysis failed,0.0,Failed

@@ -1,0 +1,9 @@
+clinic_name,city,appointments,no_shows,no_show_pct,rank_in_city,vs_overall
+Vijay Nagar Clinic,Indore,101,21,20.8,1,below
+Malviya Nagar Clinic,Jaipur,142,38,26.8,1,above
+Vaishali Nagar Clinic,Jaipur,130,18,13.8,2,below
+Edappally Medical Centre,Kochi,142,23,16.2,1,below
+Gomti Nagar Care Point,Lucknow,90,30,33.3,1,above
+Sitabuldi Health Point,Nagpur,82,13,15.9,1,below
+Hadapsar Care Centre,Pune,143,39,27.3,1,above
+Kothrud Family Clinic,Pune,160,36,22.5,2,above
